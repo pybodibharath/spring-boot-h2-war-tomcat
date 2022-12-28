@@ -12,10 +12,5 @@ else
   exit 1
 fi
   echo "*** TOMCAT SCRIPT EXECUTION END ***"
-  
-  
-  jjkjfjsjfljflkljflkf
-  fjfjgfjgjfjgjfdgjfdjgjfjfd
-kjhjkjhkhjjfhdjfdkjfjdjkf
-fdjfdjksfhdkjfhkdshfdkhfjd
-djsfdfhkdsfdksfkdjfkjjdf
+hkfjkhffhkdgfdkghf;hrohgr
+rkgrlkgjrkjlkkl
